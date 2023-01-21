@@ -15,6 +15,6 @@ Feature: Purchase the order from Ecommerce Website
     Then "THANKYOU FOR THE ORDER." message is displayed on ConfirmationPage
 
     Examples: 
-      | name  								|  password		    |	productName |
-      | rahulshetty@gmail.com |  Iamking@000    | ZARA COAT 3 | 
+      | name  		        |  password	 | productName |
+      | faris38kanbur@gmail.com |  faris45654    | ZARA COAT 3 | 
 
