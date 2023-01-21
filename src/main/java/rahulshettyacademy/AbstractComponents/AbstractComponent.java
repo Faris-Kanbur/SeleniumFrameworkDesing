@@ -1,4 +1,4 @@
-package rahulshettyacademy.AbstractComponents;
+package fariskanburacademy.AbstractComponents;
 
 import java.time.Duration;
 
